@@ -72,7 +72,6 @@
         <img src="https://github.com/kingrach/Wallpapers/blob/main/Gruvbox%20(&%20Kanagawa)/malaya-sadler-AyLE8fGt9_k-unsplash.jpg" alt="malaya-sadler-AyLE8fGt9_k-unsplash.jpg" align="center" width="300px"/>
         <img src="https://github.com/kingrach/Wallpapers/blob/main/Gruvbox%20(&%20Kanagawa)/mateusz-klein-a1BlhTu0lMI-unsplash.jpg" alt="mateusz-klein-a1BlhTu0lMI-unsplash.jpg" align="center" width="300px"/>
         <img src="https://github.com/kingrach/Wallpapers/blob/main/Gruvbox%20(&%20Kanagawa)/pexels-evgeny-tchebotarev-2187605.jpg" alt="pexels-evgeny-tchebotarev-2187605.jpg" align="center" width="300px"/>
-        <img src="https://github.com/kingrach/Wallpapers/blob/main/Gruvbox%20(&%20Kanagawa)/" alt="" align="center" width="300px"/>
         <img src="https://github.com/kingrach/Wallpapers/blob/main/Gruvbox%20(&%20Kanagawa)/sandy-kawadkar-T3gzERxg100-unsplash.jpg" alt="sandy-kawadkar-T3gzERxg100-unsplash.jpg" align="center" width="300px"/>
         <img src="https://github.com/kingrach/Wallpapers/blob/main/Gruvbox%20(&%20Kanagawa)/skyscraper_1.png" alt="skyscraper_1.png" align="center" width="300px"/>
         <img src="https://github.com/kingrach/Wallpapers/blob/main/Gruvbox%20(&%20Kanagawa)/tianshu-liu-SBK40fdKbAg-unsplash.jpg" alt="tianshu-liu-SBK40fdKbAg-unsplash.jpg" align="center" width="300px"/>
