@@ -3,11 +3,11 @@
     <p>
         Wallpapers I've found from around the web for various colour schemes I like.<br>
         Includes the following schemes:<br>
-        * Tokyo Night<br>
-        * Catppuccin<br>
-        * Gruvbox (also works with Kanagawa)<br>
-        * Sakura<br>
-        * Everforest<br>
+        ⛩️ Tokyo Night<br>
+        😺 Catppuccin<br>
+        ⛺ Gruvbox (also works with Kanagawa)<br>
+        🌸 Sakura<br>
+        🌲 Everforest<br>
     </p>
 </div>
 <div>
